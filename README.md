@@ -1,10 +1,5 @@
 # SQLSeverToSQLite
-Convert SqlServer database to SQLite database
+SqlServer 数据库 转换为 SQLite 数据库
 
-Just fork code from 
+原作者地址：
 https://www.codeproject.com/Articles/26932/Convert-SQL-Server-DB-to-SQLite-DB
-and modify to support converting from geography, geometry types on SQLServer to string on SQLite.
-
-Testing on SQLite 3
-
-Fix bug convert from Guid to String
